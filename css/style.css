@@ -175,7 +175,7 @@ p {
   border: none;
   color: #fff;
   background-color: var(--dark-color);
-  padding: 0.5rem 0.7rem;
+  padding: 0.5rem 1.5rem;
   transition: all 1s ease;
 }
 
