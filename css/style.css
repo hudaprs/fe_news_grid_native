@@ -303,6 +303,10 @@ p {
   grid-row: 1 / span 3;
 }
 
+.pages-container p {
+  text-align: justify;
+}
+
 /* Pages Meta */
 #article .meta {
   display: flex;
